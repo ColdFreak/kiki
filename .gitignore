@@ -5,3 +5,7 @@
 /config/dev.exs
 erl_crash.dump
 *.ez
+output/
+tmp/
+# Crash Log
+crash.log

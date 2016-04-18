@@ -31,6 +31,7 @@ defmodule Kiki.Mixfile do
     [
       {:slack, "~> 0.4.2"},
       {:websocket_client, git: "https://github.com/jeremyong/websocket_client"},
+
       {:exrm, "~> 1.0"}
     ]
   end
